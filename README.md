@@ -9,7 +9,7 @@ Backend [here](https://github.com/Ratuvog/test-backend)
 - Material UI
 
 ## How to run
--  Run [backend server](https://github.com/Ratuvog/test-backend/README.md)
+-  Run [backend server](https://github.com/Ratuvog/test-backend/blob/master/README.md)
 - `git clone https://github.com/Ratuvog/test-client`
 - `cd test-client`
 - `npm install && npm start`
